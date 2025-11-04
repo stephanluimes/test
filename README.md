@@ -11,6 +11,6 @@
 # git remote add origin git@github.com:stephanluimes/test2.git
 # git push -u origin main
 
-
+# ik sta hier met Rik
 
 
